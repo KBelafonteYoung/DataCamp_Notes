@@ -54,3 +54,9 @@ Conditional Statements:
   -else
   -elif (like elseif in SQL or Ruby)
     
+    ***
+
+# loop data structures part 1
+
+Method: items()
+  generate key and value in each iteration
